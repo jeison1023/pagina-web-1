@@ -9,7 +9,7 @@
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
 h2{
-    margin-top: 20px;
+    margin-top: 10px;
     color: #05297c;
 }
 b{
@@ -27,3 +27,19 @@ b{
             text-decoration: none;
             margin: 0 15px;
         }
+.container {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    text-align: left;
+    margin-left: 40px;
+}
+       .Perfil {
+        text-align: center;
+       }
+       .Perfil img {
+        display: block;
+        margin: auto;
+       }
+       
+       
