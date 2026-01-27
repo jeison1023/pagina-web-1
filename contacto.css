@@ -1,0 +1,49 @@
+
+        /* Estilos generales */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: rgb(244, 244, 244);
+        }
+
+        /* Estilos del encabezado */
+        header {
+            background-color: #6b2c1f;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        header nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
+        /* Estilos de la sección principal */
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+        .contenedor {
+            max-width: 1200px;
+            margin: auto;
+        }
+
+        /* Estilos de la sección */
+        section {
+            background-color: #ffffff;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilos del pie de página */
+        footer {
+            background-color: q#4b5a91;
+            color: rgb(0, 0, 0);
+            text-align: center;
+            padding: 10px 0;
+        }
+  
